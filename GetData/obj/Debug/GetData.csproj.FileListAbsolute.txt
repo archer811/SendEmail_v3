@@ -1,0 +1,9 @@
+d:\Users\xjzhou\Desktop\SendEmail_v3\GetData\bin\Debug\GetData.dll
+d:\Users\xjzhou\Desktop\SendEmail_v3\GetData\bin\Debug\GetData.pdb
+d:\Users\xjzhou\Desktop\SendEmail_v3\GetData\obj\Debug\GetData.dll
+d:\Users\xjzhou\Desktop\SendEmail_v3\GetData\obj\Debug\GetData.pdb
+H:\20150228\SendEmail_v3\GetData\bin\Debug\GetData.dll
+H:\20150228\SendEmail_v3\GetData\bin\Debug\GetData.pdb
+H:\20150228\SendEmail_v3\GetData\obj\Debug\GetData.csprojResolveAssemblyReference.cache
+H:\20150228\SendEmail_v3\GetData\obj\Debug\GetData.dll
+H:\20150228\SendEmail_v3\GetData\obj\Debug\GetData.pdb
